@@ -13,3 +13,7 @@
 これをcの桁制度が〇桁になるまで続ける
 
 '''
+
+import numpy as np
+
+print("Hello World!")
